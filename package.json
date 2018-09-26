@@ -2,7 +2,7 @@
   "name": "vue-draggable-resizable",
   "version": "2.0.0-beta.0",
   "author": "Maurizio Bonani <maurizio.bonani@gmail.com>",
-  "main": "dist/index.js",
+  "main": "dist/vue-draggable-resizable.umd.min.js",
   "jsnext:main": "src/index.js",
   "private": false,
   "description": "Vue2 Component for resizable and draggable elements",
